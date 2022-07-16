@@ -1,0 +1,24 @@
+{
+	"data": [
+		{
+			"idmenu": "1",
+            "idmodulo":"1",
+			"nombremenu": "ventas"
+		},
+        {
+			"idmenu": "2",
+            "idmodulo":"1",
+			"nombremenu": "compras"
+		},
+        {
+			"idmenu": "3",
+            "idmodulo":"1",
+			"nombremenu": "clientes"
+		},
+        {
+			"idmenu": "4",
+            "idmodulo":"1",
+			"nombremenu": "articulos"
+		}
+	]
+}

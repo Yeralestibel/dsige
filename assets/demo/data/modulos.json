@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"idmodulo": 1,
+			"nombreModulo": "operaciones"
+		},
+        {
+			"idmodulo": 2,
+			"nombreModulo": "consultas"
+		},
+        {
+			"idmodulo": 3,
+			"nombreModulo": "procesos"
+		}
+	]
+}

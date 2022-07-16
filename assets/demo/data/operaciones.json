@@ -1,0 +1,19 @@
+{
+	"data": [
+		{
+			"idmenu": "1",
+			"operacion": "Rventas",
+            "estado": "habilitado"
+		},
+        {
+			"idmenu": "1",
+			"operacion": "Rventas",
+            "estado": "habilitado"
+		},
+        {
+			"idmenu": "1",
+			"operacion": "Rventas",
+            "estado": "habilitado"
+		}
+	]
+}
